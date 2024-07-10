@@ -1,5 +1,5 @@
 <h1>Predicting Phone Service Churn</h1>
-<p>A CSE204 project -Introduction to Machine Learning</p>
+<p>A CSE204 project - Introduction to Machine Learning</p>
 
 <h2>
 Highlights:
@@ -13,7 +13,7 @@ FoodSaver was designed as an app and a server that is meant to connect from one 
 
 <h2>
 Brief Report:
-</h2>h2>
+</h2>
 The primary goal of this project was to develop a predictive model that can accurately identify customers who are likely to churn. By anticipating customer churn, businesses can take proactive measures to retain customers, thereby reducing turnover rates and increasing profitability.
 We used a number of classification methods that were presented in the course, and others that weren’t. We then compared their performance using different accuracy metrics.
 
