@@ -4,7 +4,7 @@
 <h2>
 Highlights:
 </h2>
-FoodSaver was designed as an app and a server that is meant to connect from one another. The development of the project has been undertaken through several subprojects:
+
 <li><b>Classification problem</b>: predicting which customers will churn (leave for another similar service)</li>
 <li><b>Models used</b>: KNN, Logistic Regression, Decision trees (+variants), Naive Bayes, CNN</li>
 <li><b>Supervised learning</b></li>
